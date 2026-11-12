@@ -1,0 +1,14 @@
+AUTO RENT - PROTOTIPO EM JAVA SWING
+
+Como abrir:
+1. Extraia a pasta autorent_modelo.zip.
+2. No NetBeans, escolha File > Open Project.
+3. Selecione a pasta autorent_modelo (a pasta que contém pom.xml).
+4. Execute o projeto pela classe com.mycompany.testes.Testes.
+
+Arquivos principais:
+- Testes.java: janela principal, navegação e telas do sistema.
+- BotaoArredondado.java: componente reutilizável dos botões do menu.
+- pom.xml: configuração Maven, usando Java 21.
+
+O protótipo usa dados fictícios em memória. Não possui banco de dados e os cadastros feitos durante a execução não são salvos após fechar o programa.

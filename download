@@ -1,0 +1,6 @@
+target/
+nbproject/private/
+*.db
+*.class
+.idea/
+*.iml
